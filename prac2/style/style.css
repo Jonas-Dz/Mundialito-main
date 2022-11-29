@@ -1,0 +1,29 @@
+body{
+    background-image: url(../img/descarga.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.articulo1{
+    color: white;
+    text-align: justify;
+}
+.articulo2{
+    color: palevioletred;
+    font-size: 23px;
+}
+.form-label{
+    color: whitesmoke;
+}
+.tabla{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+.bg-tablas{
+    text-align: center;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
